@@ -4,6 +4,7 @@ Este repositório contém minhas soluções para os desafios propostos no curso 
 
 ## Tecnologias Utilizadas
 
+* Python 3.13
 * PyCharm Community Edition 2024.3.1.1
 
 ## Estrutura do Repositório
