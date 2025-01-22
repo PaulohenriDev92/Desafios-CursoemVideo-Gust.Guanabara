@@ -8,7 +8,7 @@ Este repositório contém minhas soluções para os desafios propostos no curso 
 * PyCharm Community Edition 2024.3.1.1
 
 ## Estrutura do Repositório
-Repositório 'Desafios-CursoemVideo-Gust.Guanabara', você encontrará os arquivos Python com as soluções para os exercícios.
+Aqui vocÊ encontrará os arquivos Python com as soluções para os exercícios.
 
 ## Como Contribuir
 Sinta-se à vontade para contribuir com este repositório! Fork, faça suas alterações e envie um pull request.
