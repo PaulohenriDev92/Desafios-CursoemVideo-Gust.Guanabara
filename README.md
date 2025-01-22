@@ -5,8 +5,8 @@
 
 ## Tecnologias Utilizadas
 
-* Python 3.13
-* PyCharm Community Edition 2024.3.1.1
+* *Python 3.13*
+* *PyCharm Community Edition 2024.3.1.1*
 
 ## Estrutura do Repositório
 *Aqui vocÊ encontrará os arquivos Python com as soluções para os exercícios.*
