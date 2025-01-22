@@ -21,10 +21,11 @@
 
 *E-mail: paulocordeiro199292@gmail.com*
 
-![linkedin 256x256](https://github.com/user-attachments/assets/3c548490-a8ad-421a-bec6-ec9c481393ec)
+![gmail 256x194](https://github.com/user-attachments/assets/b61a5c7e-be56-44a4-b101-dcd23b374b31)
+
 
 
 *Linkedin: www.linkedin.com/in/paulo-henrique-007769252*
 
-![gmail 256x194](https://github.com/user-attachments/assets/b61a5c7e-be56-44a4-b101-dcd23b374b31)
+![linkedin 256x256](https://github.com/user-attachments/assets/3c548490-a8ad-421a-bec6-ec9c481393ec)
 
