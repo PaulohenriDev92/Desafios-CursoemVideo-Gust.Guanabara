@@ -18,7 +18,9 @@
 
 ## Contato
 *Paulo Henrique / 
-E-mail:[paulocordeiro199292@gmail.com] Linkedin: [www.linkedin.com/in/paulo-henrique-007769252]*
+E-mail: paulocordeiro199292@gmail.com 
 
-![img](www.linkedin.com/in/paulo-henrique-007769252)
+*Linkedin: www.linkedin.com/in/paulo-henrique-007769252*
+
+[img](www.linkedin.com/in/paulo-henrique-007769252)
 
