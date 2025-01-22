@@ -3,13 +3,13 @@
 __Este repositório contém minhas soluções para os desafios propostos no curso de Python do professor Gustavo Guanabara. O objetivo é compartilhar meu aprendizado e ajudar outros iniciantes em Python.__
 ---
 
-~~## Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * Python 3.13
 * PyCharm Community Edition 2024.3.1.1
 
 ## Estrutura do Repositório
-Aqui vocÊ encontrará os arquivos Python com as soluções para os exercícios.
+~~Aqui vocÊ encontrará os arquivos Python com as soluções para os exercícios.
 
 ## Como Contribuir
 Sinta-se à vontade para contribuir com este repositório! Fork, faça suas alterações e envie um pull request.
