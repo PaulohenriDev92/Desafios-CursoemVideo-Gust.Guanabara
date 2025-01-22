@@ -3,7 +3,7 @@
 Este repositório contém minhas soluções para os desafios propostos no curso de Python do professor Gustavo Guanabara. O objetivo é compartilhar meu aprendizado e ajudar outros iniciantes em Python.
 
 ## Tecnologias Utilizadas
-* Python 3.9
+
 * PyCharm Community Edition 2024.3.1.1
 
 ## Estrutura do Repositório
