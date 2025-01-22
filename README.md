@@ -1,6 +1,6 @@
  # Desafios Python - Curso em Vídeo (Prof. Gustavo Guanabara)
 
-__Este repositório contém minhas soluções para os desafios propostos no curso de Python do professor Gustavo Guanabara. O objetivo é compartilhar meu aprendizado e ajudar outros iniciantes em Python.__
+*__Este repositório contém minhas soluções para os desafios propostos no curso de Python do professor Gustavo Guanabara. O objetivo é compartilhar meu aprendizado e ajudar outros iniciantes em Python.*__
 ---
 
 ## Tecnologias Utilizadas
