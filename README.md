@@ -17,9 +17,9 @@
 *Este projeto está licenciado sob a MIT License.*
 
 ## Contato
-*Paulo Henrique
+*Paulo Henrique*
 
-E-mail: paulocordeiro199292@gmail.com 
+*E-mail: paulocordeiro199292@gmail.com*
 
 *Linkedin: www.linkedin.com/in/paulo-henrique-007769252*
 
